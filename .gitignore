@@ -1,0 +1,15 @@
+*.csv
+*.json
+*.dat
+*.xlsx
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+venv/
+.env
+
+*.pkl
+*.joblib
